@@ -37,7 +37,7 @@
 }
 
 - (void)centralManagerDidUpdateState:(nonnull CBCentralManager *)central {
-    <#code#>
+    //<#code#>
 }
 
 @end
