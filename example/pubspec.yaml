@@ -6,7 +6,8 @@ description: Demonstrates how to use the ble_status plugin.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: ">=3.0.2 <4.0.0"
+  flutter: "3.19.1"
 
 dependencies:
   flutter:

@@ -5,8 +5,8 @@ author:
 homepage:
 
 environment:
-  sdk: '>=3.0.2 <4.0.0'
-  flutter: "3.10.2"
+  sdk: ">=3.0.2 <4.0.0"
+  flutter: "3.19.1"
 
 dependencies:
   flutter:
